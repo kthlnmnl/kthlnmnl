@@ -1,4 +1,6 @@
-<iframe src="https://giphy.com/embed/Cp938y0736GsPtkUZK" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/stem-women-empowerment-girls-in-Cp938y0736GsPtkUZK">via GIPHY</a></p>
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif](https://media.giphy.com/media/Cp938y0736GsPtkUZK/giphy.gif">
+</p>
 
 <h1 align="center">Hi 👋, I'm Kaithlin Manalo</h1>
 <h3 align="center">Computer Programming Student</h3>
