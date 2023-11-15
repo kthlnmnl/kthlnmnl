@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250" src="https://cdna.artstation.com/p/assets/images/images/029/049/266/original/ricardo-braga-typing.gif?1596300272">
+  <img width="500" src="https://cdna.artstation.com/p/assets/images/images/029/049/266/original/ricardo-braga-typing.gif?1596300272">
 </p>
 
 <h1 align="center">Hi 👋, I'm Kaithlin Manalo</h1>
@@ -25,7 +25,7 @@
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/kthlnmnl"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/kthlnmnl" /></a></p><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kthlnmnl&show_icons=true&locale=en&layout=compact" alt="kthlnmnl" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kthlnmnl&show_icons=true&locale=en&layout=compact" alt="kthlnmnl" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kthlnmnl&show_icons=true&locale=en" alt="kthlnmnl" /></p>
 
