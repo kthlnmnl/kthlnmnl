@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Kaithlin Manalo</h1>
+<h1 align="center">Hi 👋 I'm Kaithlin Manalo</h1>
 <h3 align="center">Computer Programming Student</h3>
 
 - 🌱 I’m currently learning **next.js, react, typescript**
