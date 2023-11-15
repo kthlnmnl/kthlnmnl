@@ -1,6 +1,7 @@
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif](https://media.giphy.com/media/Cp938y0736GsPtkUZK/giphy.gif">
+  <img width="250" src="https://media.giphy.com/media/Cp938y0736GsPtkUZK/giphy.gif">
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Kaithlin Manalo</h1>
 <h3 align="center">Computer Programming Student</h3>
