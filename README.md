@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdna.artstation.com/p/assets/images/images/029/049/266/original/ricardo-braga-typing.gif?1596300272">
+  <iframe src="https://giphy.com/embed/Cp938y0736GsPtkUZK" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/stem-women-empowerment-girls-in-Cp938y0736GsPtkUZK">via GIPHY</a></p>
 </p>
 
 <h1 align="center">Hi 👋, I'm Kaithlin Manalo</h1>
